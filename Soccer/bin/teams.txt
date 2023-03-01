@@ -1,0 +1,3 @@
+Spain	88	85	78
+Germany	77	77	77
+England	68	65	88
